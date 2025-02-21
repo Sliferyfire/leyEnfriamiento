@@ -15,7 +15,7 @@ pip install numpy scipy matplotlib
 Ejecuta el script con:
 
 ```bash
-python ajuste_curva.py
+python main.py
 ```
 
 El script:
